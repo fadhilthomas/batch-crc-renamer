@@ -1,1 +1,2 @@
-# desktop-batch_crc_renamer
+# Desktop_BatchCRCRenamer
+Batch CRC Renamer
